@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\read_file_text\bin\Debug\net7.0\read_file_text.exe
+C:\Users\ASUS\Desktop\New folder\read_file_text\bin\Debug\net7.0\read_file_text.deps.json
+C:\Users\ASUS\Desktop\New folder\read_file_text\bin\Debug\net7.0\read_file_text.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\read_file_text\bin\Debug\net7.0\read_file_text.dll
+C:\Users\ASUS\Desktop\New folder\read_file_text\bin\Debug\net7.0\read_file_text.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.dll
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\refint\read_file_text.dll
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\read_file_text.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\read_file_text\obj\Debug\net7.0\ref\read_file_text.dll
